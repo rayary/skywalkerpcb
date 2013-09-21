@@ -6496,7 +6496,7 @@ diameter 5 mm, horizontal, grid 15.24 mm</description>
 <part name="R13" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603" value="931"/>
 <part name="C6" library="SparkFun-Capacitors" deviceset="CAP_POL" device="G" value="470uF"/>
 <part name="R14" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603" value="1M"/>
-<part name="R15" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603" value="780k"/>
+<part name="R15" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603" value="470k"/>
 <part name="C7" library="SparkFun-Capacitors" deviceset="CAP" device="0603-CAP" value="0.1uF"/>
 <part name="GND25" library="supply1" deviceset="GND" device=""/>
 <part name="GND26" library="supply1" deviceset="GND" device=""/>
