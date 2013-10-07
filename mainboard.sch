@@ -6971,8 +6971,6 @@ diameter 5 mm, horizontal, grid 15.24 mm</description>
 <junction x="132.08" y="-30.48"/>
 <junction x="121.92" y="-30.48"/>
 </segment>
-</net>
-<net name="3.3V" class="0">
 <segment>
 <pinref part="R10" gate="G$1" pin="2"/>
 <wire x1="154.94" y1="99.06" x2="167.64" y2="99.06" width="0.1524" layer="91"/>
